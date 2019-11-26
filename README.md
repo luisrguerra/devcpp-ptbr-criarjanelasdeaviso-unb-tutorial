@@ -3,7 +3,7 @@ Tutorial de como criar janelas de aviso e pergunta de forma simples no Dev C++(5
 
 MessageBox( 0, "Linha 1\nLinha 2", "Título11", 0 | MB_ICONERROR );
 
-titulo5
+![janela6](janela6.PNG)
 
 
 
